@@ -3,10 +3,10 @@
 ![Udacity Badge](images/60DaysOfUdacity-Khush_Patel.jpg)
 
 # Day 1
-✓ Lesson 3 completed 
-✓ Successfully organized Book with the Basics
-✓ Started writing medium post on PyTorch Introduction
-✓ Started Discussion on Projects
+- [x] ✓ Lesson 3 completed 
+- [x] ✓ Successfully organized Book with the Basics
+- [x] ✓ Started writing medium post on PyTorch Introduction
+- [x] ✓ Started Discussion on Projects
 
 # Day 2
 # Day 3
