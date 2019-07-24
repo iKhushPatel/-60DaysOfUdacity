@@ -2,13 +2,17 @@
 
 ![Udacity Badge](images/60DaysOfUdacity-Khush_Patel.jpg)
 
-# Day 1
-- [x] ✓ Lesson 3 completed 
-- [x] ✓ Successfully organized Book with the Basics
-- [x] ✓ Started writing medium post on PyTorch Introduction
-- [x] ✓ Started Discussion on Projects
+#Day 1
+- [x] Pledged Taken
+- [x] Revised PyTorch Notes
+- [x] Data Transformation Documents Reading
 
 # Day 2
+- [x] Lesson 3 completed 
+- [x] Successfully organized Book with the Basics
+- [x] Started writing medium post on PyTorch Introduction
+- [x] Started Discussion on Projects
+
 # Day 3
 # Day 4
 # Day 5
