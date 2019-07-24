@@ -2,7 +2,7 @@
 
 ![Udacity Badge](images/60DaysOfUdacity-Khush_Patel.jpg)
 
-#Day 1
+# Day 1
 - [x] Pledged Taken
 - [x] Revised PyTorch Notes
 - [x] Data Transformation Documents Reading
@@ -14,6 +14,12 @@
 - [x] Started Discussion on Projects
 
 # Day 3
+[x] Grabs basics on Activation Functions
+[x] Searched for Different Journals Publication
+[x] Completed Lesson 4
+[x] Worked on script to download multiple Google images to create Dataset
+
+
 # Day 4
 # Day 5
 # Day 6
