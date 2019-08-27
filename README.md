@@ -416,10 +416,13 @@ Big shout out to @Juan Carlos Kuri Pinto @Nishant Bharat @Sourav @Shubhangi Jena
 Big shout out to @Aditya kumar, @Kapil Chandorikar, @Archit, @Gogulaanand R, @Seeratpal K. Jaura, @Nishant Bharat, @Daniel Adinugroho, @Stanislav Ladyzhenskiy, @Oluwarotimi Adesina, @Sankalp # Dayal, @sourav kumar, @Adriel Vieira, @kumaraswamy, @Alejandro Galindo, @ThienAn, @Aman Sharma, @Jaiki Yadav, @Dammy, @Ateniola Oluwatobi Victor,  @Diego, @Samuela Anastasi, @Vipul Aggarwal, @Labiba, @Taimur Zahid, @Elizabeth W, @Berenice, @Agata [OR, USA], @Joyce Obi, @Rishi S Rao
 
 # Day 60 #60DaysOfUdacity 
-Final Completed 60 # Days of Udacity Challenge 
-Document for #60daysofudacity https://github.com/iKhushPatel/60DaysOfUdacity
+Final Completed 60 Days of Udacity Challenge 
+
 - [x] Read blog on Fast AI Image Segmentation
 https://towardsdatascience.com/fastai-image-segmentation-eacad8543f6f
 - [x] Revised Few Videos of Securing Federated Learning 
 - [x] Surfed a great resource about data privacy https://github.com/yilmaztolga/awesome-data-privacy
 Big shout-out to @Anna Scott @erinSnPAI @Taimur Zahid @geekykant @Sergio Valderrama @Shubhangi Jena @Juan Carlos Kuri Pinto @Sayali_Kutwal @Anju Mercian @Deepak @Harshit Jain @Nikita Sukhwal @Biswajit Banerjee @Stark @Ivy @PRAXS @Jaiki Yadav @Agata [OR, USA] @Nirupama Singh @PaulBruce @Abhishek Lalwani @Rana Tallal @Seeratpal K. Jaura @Abhishek Lalwani @Ivy @Aarthi Alagammai @Sergio Valderrama @Munira Omar @Sayali_Kutwal @Nishant Bharat @Labiba @Shubhangi Jena @Prateek Thakare @PRAXS @Poornima Venkatraman @Oudarjya Sen Sarma, @Prateek Thakare, @Ravikant Singh, @Mahedi, @Rumanu, @Sabrina, @sandeep dutta, @Sharim, @sourav kumar, @Sayali_Kutwal, @shaswat anand  @Shudipto Trafder, @Shahana, @Siddharth Srivastava, @Sumanyu Rosha, @Sushil Ghimire, @Taimur Zahid, @Vebby, @Anju Mercian  @Vigneshwari, @Droid, @Vipul Aggarwal, @Vivank Sharma @Dhananjay Purohit 
+
+
+Document for #60DaysOfUdacity https://github.com/iKhushPatel/60DaysOfUdacity
